@@ -3,3 +3,4 @@ Ecom App
 2)signin
 3)products
 4)order
+5)location
