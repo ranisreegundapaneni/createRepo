@@ -4,3 +4,4 @@ Ecom App
 3)products
 4)order
 5)location
+6)logout
